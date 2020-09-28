@@ -1,2 +1,2 @@
-# animation
-Use of various css animation property 28/9/2020
+# keyframes
+various css animation using keyframes property 28/9/2020
